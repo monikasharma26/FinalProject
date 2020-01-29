@@ -1,4 +1,4 @@
 package com.lambton;
 
-public class Student {
+public class Vehicle {
 }
