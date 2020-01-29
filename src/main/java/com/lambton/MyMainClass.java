@@ -2,7 +2,9 @@ package com.lambton;
 
 public class MyMainClass
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
+        //error
 
     }
 }
