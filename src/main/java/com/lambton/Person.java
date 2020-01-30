@@ -12,6 +12,7 @@ public abstract class Person
     LocalDate birthDate;
     public Password password;
 
+
     public int getId() {
         return id;
     }
