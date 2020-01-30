@@ -1,7 +1,4 @@
 package com.lambton;
 
-public  class Customer
-{
-
-
+public class Customer {
 }
