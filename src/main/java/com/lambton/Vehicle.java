@@ -1,4 +1,8 @@
 package com.lambton;
 
-public class Vehicle {
+import java.util.HashMap;
+
+public abstract class Vehicle {
+    
+
 }

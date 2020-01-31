@@ -1,4 +1,6 @@
 package com.lambton;
 
-public class VehicleRent {
+public class VehicleRent  {
+
+
 }
