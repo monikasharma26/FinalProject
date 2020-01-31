@@ -14,4 +14,6 @@ public abstract class Vehicle {
     private String fuelType;
     HashMap<String, Integer> hashMap = new HashMap<String, Integer>();
 
+
+
 }
