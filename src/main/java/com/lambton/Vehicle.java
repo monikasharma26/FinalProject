@@ -12,7 +12,7 @@ public abstract class Vehicle {
     private int noOfSeat;
     private String insuranceProviderName;
     private String fuelType;
-    HashMap<String, Integer> hashMap = new HashMap<String, Integer>();
+    HashMap<String, Integer> hashMap;
 
 
 
